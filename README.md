@@ -1,4 +1,6 @@
 node-queuefy
 ============
 
-Node queuefy, a distributed queueing system
+A simple straight-forward queue system for Node.js
+
+A small example can be found in example/server.js for the server side and example/worker.js for a worker.
