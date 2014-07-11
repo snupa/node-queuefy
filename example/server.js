@@ -1,7 +1,6 @@
 var Queuefy = require('../index.js');
 
 var serverObj = new Queuefy.Server({
-	host: '127.0.0.1',
 	port: 5987
 });
 
