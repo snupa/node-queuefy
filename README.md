@@ -1,5 +1,6 @@
 node-queuefy
 ============
+Install: npm install node-queuefy
 
 A simple straight-forward queue system for Node.js
 
