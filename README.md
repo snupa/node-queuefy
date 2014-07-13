@@ -67,4 +67,4 @@ worker.on('error', function(e) {
 ### Benchmarking
 
 I have set up the queue server on one 5$ DigitalOcean droplet, and 50 worker clients which managed to push 30.000 items/second, with no callback confirmation.
-Tested with callback confirmations, the rate dropped at about 3.000 events/second
+Tested with callback confirmations, the rate dropped at about 3.000 items/second
